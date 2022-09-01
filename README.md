@@ -1,2 +1,2 @@
 # LandingPage
-Lading Page Practice
+Landing Page Practice
